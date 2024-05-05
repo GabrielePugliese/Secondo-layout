@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 .merriweather-light {
     font-family: "Merriweather", serif;
@@ -48,29 +47,11 @@
     font-weight: 900;
     font-style: italic;
   }
+  
 
-  
-  .courier-prime-regular {
-    font-family: "Courier Prime", monospace;
-    font-weight: 400;
-    font-style: normal;
+  .mt-105{
+      margin-top: 105px;
   }
-  
-  .courier-prime-bold {
-    font-family: "Courier Prime", monospace;
-    font-weight: 700;
-    font-style: normal;
-  }
-  
-  .courier-prime-regular-italic {
-    font-family: "Courier Prime", monospace;
-    font-weight: 400;
-    font-style: italic;
-  }
-  
-  .courier-prime-bold-italic {
-    font-family: "Courier Prime", monospace;
-    font-weight: 700;
-    font-style: italic;
-  }
-  
+  .mb-150{
+      margin-bottom: 150px;
+      }

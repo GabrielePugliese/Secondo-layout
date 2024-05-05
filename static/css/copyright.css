@@ -1,0 +1,10 @@
+.copyright{
+    padding-top: 80px;
+    padding-bottom: 200px;
+}
+
+.copyright p {
+    line-height: 34px;
+    font-size: 22px;
+    color: #707070;
+}

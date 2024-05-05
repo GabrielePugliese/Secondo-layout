@@ -1,0 +1,21 @@
+.hero-celeste  {
+    background-color: #CEFBFF;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-rosa {
+    background-color: #ECCEFF;
+    width: 100%;
+    margin: 0;
+    padding-top: 80px;
+    padding-bottom: 200px;
+}
+
+.hero-white {
+    border-color: #F5F5F5;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
